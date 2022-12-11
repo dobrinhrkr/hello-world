@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-<h1> Continue working on the training! </h1>
+<h1> Continue working on the training! Haba Haba chik chirik</h1>
   
 </form>
