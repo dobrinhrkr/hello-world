@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-<h1> TContinue working on the training </h1>
+<h1> TContinue working on the training! </h1>
   
 </form>
