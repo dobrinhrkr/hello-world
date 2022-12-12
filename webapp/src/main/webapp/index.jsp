@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-<h1> Continue working on the training! Haba Haba chik chirik..... Iakata rabota 2</h1>
+<h1> Continue working on the training! Haba Haba chik chirik..... Iakata rabota 2. I te taka</h1>
   
 </form>
